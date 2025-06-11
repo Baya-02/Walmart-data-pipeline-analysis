@@ -21,6 +21,22 @@ This project is an end-to-end data analysis pipeline built to extract valuable b
 - Jupyter Notebook
 
 ---
+---
 
-## 📁 Project Structure
+## 📊 Key Business Questions Answered
+
+- 📈 Revenue trends across branches and categories
+- 🏆 Best-selling product categories
+- 🕒 Sales performance by time, city, and payment method
+- 🧠 Customer buying patterns and peak periods
+- 💰 Profit margin analysis by branch and category
+
+---
+
+## 📥 Data Source
+
+Data was downloaded using the [Kaggle API](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets).
+
+---
+
 
